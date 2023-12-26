@@ -1,5 +1,5 @@
 #include<iostream>
 int main(){
-    int a=1,b=35;
+    int a=22,b=35;
     std::cout<<a+b;
 }
